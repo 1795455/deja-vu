@@ -27,4 +27,40 @@
         xsi:type="archimate:Resource"
         href="Resource_id-cdfe1def6a994fdd945d135db6930e8b.xml#id-cdfe1def6a994fdd945d135db6930e8b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-54513456768f4d96a5ba5cdb02d880d3">
+    <bounds
+        x="1293"
+        y="291"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-ba411f96095c416b9b8927222f43520d.xml#id-ba411f96095c416b9b8927222f43520d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-442ea61c27f44424a91458b464b10d68">
+    <bounds
+        x="1322"
+        y="178"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-582f6c4f38c34601803fbd2868222203.xml#id-582f6c4f38c34601803fbd2868222203"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e5eca6bf4b984a84a2a0d0038a7b2c27">
+    <bounds
+        x="1072"
+        y="288"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-a2325d386f8240b0b89352038eca5412.xml#id-a2325d386f8240b0b89352038eca5412"/>
+  </children>
 </archimate:ArchimateDiagramModel>
