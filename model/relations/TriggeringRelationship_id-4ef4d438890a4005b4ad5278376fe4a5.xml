@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pull"
+    id="id-4ef4d438890a4005b4ad5278376fe4a5">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-688c224bd20b48ef8c1b215c6a680072.xml#id-688c224bd20b48ef8c1b215c6a680072"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-df173568172746e5897791cdf205d690.xml#id-df173568172746e5897791cdf205d690"/>
+</archimate:TriggeringRelationship>

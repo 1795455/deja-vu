@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archi Private/Public Key Auth "
+    id="id-2e923ae1499e4dbbb44c7755eb113ab6">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-c941a1c08b404dab8d13258016c7c790.xml#id-c941a1c08b404dab8d13258016c7c790"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-df173568172746e5897791cdf205d690.xml#id-df173568172746e5897791cdf205d690"/>
+</archimate:ServingRelationship>

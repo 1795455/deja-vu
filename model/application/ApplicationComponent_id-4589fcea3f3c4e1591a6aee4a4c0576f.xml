@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GIT Hub"
+    id="id-4589fcea3f3c4e1591a6aee4a4c0576f">
+  <properties
+      key="Profile"
+      value="1795455"/>
+  <properties
+      key="Projects"
+      value="deja-vu-project"/>
+</archimate:ApplicationComponent>

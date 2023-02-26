@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docker Private/Public Key Auth "
+    id="id-877ef86c20bc4eca97fb880134c7c869">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-c941a1c08b404dab8d13258016c7c790.xml#id-c941a1c08b404dab8d13258016c7c790"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-783aed2c7a484a13997de634287bb245.xml#id-783aed2c7a484a13997de634287bb245"/>
+</archimate:ServingRelationship>

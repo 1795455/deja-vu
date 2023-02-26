@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docker Container Local Server"
+    id="id-783aed2c7a484a13997de634287bb245">
+  <properties
+      key="App path"/>
+  <properties
+      key=".ssh path"/>
+</archimate:ApplicationComponent>

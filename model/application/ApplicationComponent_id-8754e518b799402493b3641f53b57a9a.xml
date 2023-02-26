@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archi app 3"
+    id="id-8754e518b799402493b3641f53b57a9a">
+  <properties
+      key="App path"/>
+  <properties
+      key=".ssh path"/>
+</archimate:ApplicationComponent>

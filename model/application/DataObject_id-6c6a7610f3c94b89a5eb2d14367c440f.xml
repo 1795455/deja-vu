@@ -1,0 +1,17 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repo"
+    id="id-6c6a7610f3c94b89a5eb2d14367c440f">
+  <properties
+      key="Name"
+      value="dv-project"/>
+  <properties
+      key="HTTPS"
+      value="https://github.com/1795455/deja-vu.git"/>
+  <properties
+      key="SSH"
+      value="git@github.com:1795455/deja-vu.git"/>
+  <properties
+      key="index.html-path"
+      value="https://1795455.github.io/deja-vu/"/>
+</archimate:DataObject>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publish HTML"
+    id="id-ae77d283209b4eb79b77e2ed1e535773">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ad4c2847434d4536a361abbc3a40d0ed.xml#id-ad4c2847434d4536a361abbc3a40d0ed"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d9769870fd1b4139af4b279ee159b439.xml#id-d9769870fd1b4139af4b279ee159b439"/>
+</archimate:RealizationRelationship>
