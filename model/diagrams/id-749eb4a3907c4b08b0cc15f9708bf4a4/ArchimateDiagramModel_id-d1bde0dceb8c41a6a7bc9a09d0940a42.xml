@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="02-BussinesModel"
     id="id-d1bde0dceb8c41a6a7bc9a09d0940a42">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -31,8 +31,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-54513456768f4d96a5ba5cdb02d880d3">
     <bounds
-        x="1293"
-        y="291"
+        x="432"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
