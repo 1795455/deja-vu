@@ -805,4 +805,19 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-ecdb86435aab482088edee151a25bda3.xml#id-ecdb86435aab482088edee151a25bda3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7aac065da43e480b9f875476d4ca2c52"
+      fillColor="#ffffd5"
+      textPosition="2"
+      type="1">
+    <bounds
+        x="671"
+        y="718"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-e12fdca5556f43d4a4ca9875ca3418a6.xml#id-e12fdca5556f43d4a4ca9875ca3418a6"/>
+  </children>
 </archimate:ArchimateDiagramModel>
